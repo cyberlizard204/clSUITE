@@ -15,3 +15,6 @@ Like every app in this suite, everything is written in Swift and so file sizes a
 
 build and connect
 ![alt_text](https://github.com/cyberlizard204/clSUITE/blob/2743e008f0b08380bf824295bf388273545e4e41/build%20and%20connect%20-%201280x800.jpeg)
+
+design and make
+![alt_text](https://github.com/cyberlizard204/clSUITE/blob/0c1b9bb4449fd6deb6faf04c3e8cebcdaf5eb074/design%20and%20make%20resized%201280x800.jpeg)
