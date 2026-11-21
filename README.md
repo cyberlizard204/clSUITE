@@ -12,3 +12,6 @@ Like every app in this suite, everything is written in Swift and so file sizes a
 
 ### the mini dock
 ![alt_text](https://github.com/cyberlizard204/clSUITE/blob/e59592e8858f865a8a4e03e1085fa19fff95cdbf/the%20mini%20dock%20resized%201280x800.jpeg)
+
+build and connect
+![alt_text](https://github.com/cyberlizard204/clSUITE/blob/2743e008f0b08380bf824295bf388273545e4e41/build%20and%20connect%20-%201280x800.jpeg)
