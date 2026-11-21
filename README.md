@@ -29,7 +29,7 @@ Like every app in this suite, everything is written in Swift and so file sizes a
 ![alt_text](https://github.com/cyberlizard204/clSUITE/blob/fdc6f0f93fbd34c9b2a58b9636f732116bcf934c/write%20and%20present%20resized%201280x800.jpeg)
 
 
-who or what is cyberlizard?  
+# who or what is cyberlizard?  
 
 my name is Steve.  My regular job is an overworked and underpaid psychiatric nurse in the NHS working for the NHS, mostly on acute mental health wards caring for some of societies most unwell people.  Before taking up this career, I was a computer tinkerer, from Z80s right up until now.  After years of fighting with Windows, but not being able to gel with Linux, I took the plunge and moved over the Apple computers and am slowly getting used to the way things are, but sometimes you just cannot find the apps you want.  When the app does not exist as you like it there is only one solution and that is to create it.  Cyberlizard is just my regular internet username and so I took the 'c' and the 'l' as the prefix for my apps.  So what is in this suite of apps.  All of the apps are written in native Swift for maximum speed and compatibility.
 
