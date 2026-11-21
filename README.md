@@ -34,7 +34,7 @@ who or what is cyberlizard?
 my name is Steve.  My regular job is an overworked and underpaid psychiatric nurse in the NHS working for the NHS, mostly on acute mental health wards caring for some of societies most unwell people.  Before taking up this career, I was a computer tinkerer, from Z80s right up until now.  After years of fighting with Windows, but not being able to gel with Linux, I took the plunge and moved over the Apple computers and am slowly getting used to the way things are, but sometimes you just cannot find the apps you want.  When the app does not exist as you like it there is only one solution and that is to create it.  Cyberlizard is just my regular internet username and so I took the 'c' and the 'l' as the prefix for my apps.  So what is in this suite of apps.  All of the apps are written in native Swift for maximum speed and compatibility.
 
 <img src="https://github.com/cyberlizard204/clSUITE/blob/a3d7b7e10e8ce972baada4dc56e049909793185c/clBLUR.png" width="200" height="200"> 
-<img src="(https://github.com/cyberlizard204/clSUITE/blob/dc8781a2b818aec55281859a0ad5f4e97c431cec/clCAD.png)" width="200" height="200">
+<img src="https://github.com/cyberlizard204/clSUITE/blob/dc8781a2b818aec55281859a0ad5f4e97c431cec/clCAD.png" width="200" height="200">
 
 
 
