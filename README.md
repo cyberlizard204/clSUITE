@@ -24,3 +24,6 @@ Like every app in this suite, everything is written in Swift and so file sizes a
 
 ### sound and vision
 ![alt_text](https://github.com/cyberlizard204/clSUITE/blob/2b7751a53f3f8254ee43f008949cb7988367fd66/sound%20and%20vision%20resized%201280x800.jpeg)
+
+### write and present
+![alt_text](https://github.com/cyberlizard204/clSUITE/blob/fdc6f0f93fbd34c9b2a58b9636f732116bcf934c/write%20and%20present%20resized%201280x800.jpeg)
