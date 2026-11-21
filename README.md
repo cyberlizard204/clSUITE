@@ -31,13 +31,5 @@ Like every app in this suite, everything is written in Swift and so file sizes a
 
 who or what is cyberlizard?  
 
-my name is Steve.  My regular job is an overworked and underpaid psychiatric nurse in the NHS working for the NHS, mostly on acute mental health wards caring for some of societies most unwell people.  Before taking up this career, I was a computer tinkerer, from Z80s right up until now.  After years of fighting with Windows, but not being able to gel with Linux, I took the plunge and moved over the Apple computers and am slowly getting used to the way things are, but sometimes you just cannot find the apps you want.  When the app does not exist as you like it there is only one solution and that is to create it.  Cyberlizard is just my regular internet username and so I took the 'c' and the 'l' as the prefix for my apps.  So what is in this suite of apps.  Here is the list:
+my name is Steve.  My regular job is an overworked and underpaid psychiatric nurse in the NHS working for the NHS, mostly on acute mental health wards caring for some of societies most unwell people.  Before taking up this career, I was a computer tinkerer, from Z80s right up until now.  After years of fighting with Windows, but not being able to gel with Linux, I took the plunge and moved over the Apple computers and am slowly getting used to the way things are, but sometimes you just cannot find the apps you want.  When the app does not exist as you like it there is only one solution and that is to create it.  Cyberlizard is just my regular internet username and so I took the 'c' and the 'l' as the prefix for my apps.  So what is in this suite of apps.  All of the apps are written in native Swift for maximum speed and compatibility.
 
-### clSonic Brings a fully fledged digital audio workstation to your Mac.  Whether the audio is analog, stereo or 5.1, digital / MIDI, or you just need to create some notation software, this app is for you. 
-![alt_text](https://github.com/cyberlizard204/clSUITE/blob/98b43a38070dc7d222ba9e979bdc087dab441b59/clSONICS%20-%20small.png)
-
-### clVideo is a non-linear video editing solution that blends elements of well known editors with the simplicity of iMovie coupled to After Effects style manipulation via keyframes
-![alt_image](https://github.com/cyberlizard204/clSUITE/blob/25bd4ed425697b272d19126af6b827a85c0c10d1/clVIDEO.png)
-
-### clCAD - need to design a 3d model?  Want to use a CNC machine to create your part?  Want to create something for a LASER cutter.  This app does it all and more:  2d geometry, 3d part design, CNC tooling, load deformation and visualisation.  It's all here in a user friendly form.
-![alt_image](https://github.com/cyberlizard204/clSUITE/blob/19e0745955c8f6dab74ce35e58ecb92fdd4f27f0/clCAD.png)
