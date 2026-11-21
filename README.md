@@ -9,3 +9,6 @@ Like every app in this suite, everything is written in Swift and so file sizes a
 
 ### the mini launcher
 ![alt_text](https://github.com/cyberlizard204/clSUITE/blob/869ec632f0a5ac74e8a1ab94eeedb00ec575d281/mini%20launcher%202%20resized%201280x800.jpeg)
+
+### the mini dock
+![alt_text](https://github.com/cyberlizard204/clSUITE/blob/e59592e8858f865a8a4e03e1085fa19fff95cdbf/the%20mini%20dock%20resized%201280x800.jpeg)
