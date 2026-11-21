@@ -33,5 +33,4 @@ who or what is cyberlizard?
 
 my name is Steve.  My regular job is an overworked and underpaid psychiatric nurse in the NHS working for the NHS, mostly on acute mental health wards caring for some of societies most unwell people.  Before taking up this career, I was a computer tinkerer, from Z80s right up until now.  After years of fighting with Windows, but not being able to gel with Linux, I took the plunge and moved over the Apple computers and am slowly getting used to the way things are, but sometimes you just cannot find the apps you want.  When the app does not exist as you like it there is only one solution and that is to create it.  Cyberlizard is just my regular internet username and so I took the 'c' and the 'l' as the prefix for my apps.  So what is in this suite of apps.  Here is the list:
 
-* ### clSonics
-  * Brings a fully fledged digital audio workstation to your Mac.  Whether the audio is analog, stereo or 5.1, digital / MIDI, or you just need to create some notation software, this app is for you.
+![alt_text](https://github.com/cyberlizard204/clSUITE/blob/98b43a38070dc7d222ba9e979bdc087dab441b59/clSONICS%20-%20small.png) - Brings a fully fledged digital audio workstation to your Mac.  Whether the audio is analog, stereo or 5.1, digital / MIDI, or you just need to create some notation software, this app is for you.
